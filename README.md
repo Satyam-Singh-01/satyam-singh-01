@@ -64,6 +64,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Singh-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Satyam-Singh-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <a href="https://github.com/Satyam-Singh-01/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Singh-01&theme=github-compact&include_all_commits=true&count_private=true" alt="Satyam's github activity graph">
+</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Singh-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
