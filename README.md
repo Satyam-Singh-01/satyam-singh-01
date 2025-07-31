@@ -1,4 +1,11 @@
 <!-- Holopins badge centered -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=35&duration=1000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Satyam+Singh!" alt="Typing SVG" /></a>
+</h1>
+
+
+
+
 <p align="center">
   <a href="https://holopin.io/@satyam01">
     <img src="https://holopin.me/satyam01" alt="@satyam01's Holopin board">
